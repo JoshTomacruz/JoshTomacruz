@@ -6,6 +6,7 @@
 <h2>Certifications</h2>
 ![Screenshot 2024-10-28 220457](https://github.com/user-attachments/assets/11690af0-ef12-4cc6-9bd4-0d69b6cac830)
 <p>Authenticity Link: https://courses.cognitiveclass.ai/certificates/23c718fcf0e2448e97e5c63eecaec50b</p>
+<p>Oracle Cloud Infrastructure 2024 Foundations Associate Certification: https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5392894&trackId=OCI2024FNDCFA&key=8346fe09e06730a3e82ca76ad8a1724ef50560f1</p>
 <br>
 <h2>Skillsets</h2>
 <p>Using programming languages such as Java and Python</p>
